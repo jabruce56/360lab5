@@ -239,7 +239,6 @@ main(int argc, char *argv[], char *env[]){
               }
             }
           }
-          printf("%s: command not found\n", myargv[0]);
 
         }
       }
